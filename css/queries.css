@@ -4,17 +4,17 @@
 	}
 	#home #home_header h1 {
 		padding: 5% 0 1% 0;
-		font: 42px 'Dekiru', sans-serif;
+		font: 36px 'Dekiru', sans-serif;
 	}
 	#home #home_header h2 {
 		padding: 1% 0 5% 0;
-		font: 36px 'Castrade', sans-serif;
+		font: 30px 'Castrade', sans-serif;
 	}
 	#home #home_center {
 		height: 45%;
 	}
 	p {
-		font: 20px 'Raleway', sans-serif;
+		font: 18px 'Raleway', sans-serif;
 	}
 	#home #home_footer {
 		height: 10%;
